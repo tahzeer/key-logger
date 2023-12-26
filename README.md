@@ -43,10 +43,6 @@ If you are using a Mac, you may need to grant input monitoring permissions:
 1. Go to **Settings > Security & Privacy > Privacy > Input Monitoring**.
 2. Tick the checkbox in front of the Terminal or the IDE you are using.
 
-## Disclaimer
-
-This keylogger is intended for educational purposes only. Do not use it for malicious activities. The developer is not responsible for any misuse or legal consequences resulting from the use of this software.
-
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.

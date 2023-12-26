@@ -1,8 +1,6 @@
 # Python Keylogger
 
-## Overview
-
-This Python Keylogger is a simple monitoring tool designed to record keystrokes made by a user. Please note that the usage of keyloggers may violate privacy laws and ethical considerations. This program is meant for educational purposes only, and the developer takes no responsibility for any misuse.
+This Keylogger is a simple monitoring tool designed to record keystrokes made by a user. Please note that the usage of keyloggers may violate privacy laws and ethical considerations. This program is meant for educational purposes only, and the developer takes no responsibility for any misuse.
 
 ## Installation
 
